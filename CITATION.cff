@@ -1,0 +1,25 @@
+# YAML 1.2
+---
+abstract: "Identification of genetic variants is of crucial importance in the forthcoming era of precision medicine. Since the majority of variant callers require mapping reads to a reference genome, the reliability of the latter is a key factor determining accuracy of the downstream analyses. We present Whisper 2, a short-read-mapping software providing superior quality of indel variant calling. Its running times place it among the fastest existing tools. The software is available at GitHub (https://github.com/refresh-bio/whisper) under GNU GPL 3 license."
+authors: 
+  -
+    affiliation: "Faculty of Automatic Control, Electronics and Computer Science, Silesian University of Technology, Gliwice, Poland"
+    family-names: Deorowicz
+    given-names: Sebastian
+  -
+    affiliation: "Faculty of Automatic Control, Electronics and Computer Science, Silesian University of Technology, Gliwice, Poland"
+    family-names: "Gudyś"
+    given-names: "Adam "
+cff-version: "1.1.0"
+date-released: 2020-07-02
+doi: "10.1016/j.softx.2021.100692"
+keywords: 
+  - "Short read mapping"
+  - "High throughput sequencing"
+  - "Variant calling"
+license: "AGPL-3.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ElsevierSoftwareX/SOFTX_2020_130"
+title: "Whisper 2: Indel-sensitive short read mapping"
+version: "2.0.1"
+...
