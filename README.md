@@ -161,6 +161,19 @@ readsC_1;readsC_2
 
 ## Citing
 
+Sebastian Deorowicz, Adam Gudyś,
+Whisper2: Indel-sensitive short read mapping,
+SoftwareX,
+Volume 14,
+2021,
+100692,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100692.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000376)
+Abstract: Identification of genetic variants is of crucial importance in the forthcoming era of precision medicine. Since the majority of variant callers require mapping reads to a reference genome, the reliability of the latter is a key factor determining accuracy of the downstream analyses. We present Whisper2, a short-read-mapping software providing superior quality of indel variant calling. Its running times place it among the fastest existing tools. The software is available at GitHub (https://github.com/refresh-bio/whisper) under GNU GPL 3 license.
+Keywords: Short read mapping; High throughput sequencing; Variant calling
+
+
 [Deorowicz, S., Debudaj-Grabysz, A., Gudyś, A., Grabowski, S. (2018) Whisper: Read sorting allows robust mapping of sequencing data, Bioinformatics, 35(12):2043–2050](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty927/5165374?redirectedFrom=fulltext)
 
 
